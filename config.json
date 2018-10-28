@@ -1,4 +1,5 @@
-   "name":"Intervention",
+{
+"name":"Intervention",
    "admin_menus":{
       "GLOBAL__ADMIN_PLUGINS":{
          "Intervention":{
